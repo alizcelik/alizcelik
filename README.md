@@ -4,7 +4,7 @@ I am a passionate **Software Development Engineer in Test** with expertise in de
 
 ## 💼 What I do
 
-Currently, I am deeply involved in a **Vue.js project**, enhancing both testing and development aspects. My skills include:
+Currently, I am deeply involved in a **FullStack(Java + Vue.js + Quasar) project**, enhancing both testing and development aspects. My skills include:
 
 - **Java & Spring Boot**: Extensive experience in backend development.
 - **JavaScript & TypeScript**: Proficient in modern web technologies.
