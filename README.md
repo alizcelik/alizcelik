@@ -9,7 +9,10 @@ Currently, I am deeply involved in a **Vue.js project**, enhancing both testing 
 - **Java & Spring Boot**: Extensive experience in backend development.
 - **JavaScript & TypeScript**: Proficient in modern web technologies.
 - **Frontend Frameworks**: Experienced with Vue.js, Next.js, and React.js.
-- **Test Automation**: Skilled in Vitest for writing unit tests.
+  - **Unit Tests**: Skilled in Vitest for writing unit tests.
+- **Test Automation Frameworks**: Java, Cucumber, Selenium, RestAssured, JDBC, JPA, Jakarta - Hibernate, Extent Report
+- **CI/CD**: Skilled in creating Jenkins Jobs ...
+
 
 ## 🛠 Projects
 
